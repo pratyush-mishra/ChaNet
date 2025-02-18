@@ -1,2 +1,2 @@
 # ChaNet
-a simple, efficient CNN for fashion images
+CNN, but fashionable. 91% accuracy on fashion-MNIST dataset
